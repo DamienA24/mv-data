@@ -3,43 +3,27 @@
 		{
 			"picture": "https://img.grouponcdn.com/seocms/peu5jxDcxSHmhwUoESuBhK/Plume_Small_Kitchen-600x390.jpg",
 			"url": "http://www.plume.coffee/Home.html",
-			"name": "Bordeaux",
+			"name": "Resto Bordelais\n",
 			"visite": [
 				{
 					"date": "2016-03-15",
-					"title": "midi",
+					"title": "Soir\n",
 					"plat": [
 						{
 							"name": "salade landaise",
 							"dishRating": 7
 						},
 						{
-							"name": "filet mignon en croute",
-							"dishRating": 7.5
+							"name": "Soupe à la tomate",
+							"dishRating": 9.5
+						},
+						{
+							"name": "Tortilla",
+							"dishRating": 7
 						},
 						{
 							"name": "tiramisu spéculoos",
 							"dishRating": 8.5
-						}
-					]
-				}
-			]
-		},
-		{
-			"picture": "https://cdn.rawgit.com/Cegaz/mv-data/34440f2697039c1feac39502d64cdbc4db66469e/images/calvin.jpeg",
-			"name": "La grosse bouffe",
-			"visite": [
-				{
-					"date": "20/10/2017",
-					"title": "Plat du jour",
-					"plat": [
-						{
-							"name": "kebab",
-							"dishRating": 8.5
-						},
-						{
-							"name": "salade de homards",
-							"dishRating": 1.5
 						}
 					]
 				}
